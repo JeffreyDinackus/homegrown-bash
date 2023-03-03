@@ -6,7 +6,7 @@ count=`cat num-guess-count.txt`
 
 echo "Guess a number if you want to play"
 read guess
-echo "You guessed $number"
+echo "You guessed $guess"
 echo "You have guessed $count times so far"
 
 echo "the correct number is:"
